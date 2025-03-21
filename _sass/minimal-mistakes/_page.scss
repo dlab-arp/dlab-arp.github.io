@@ -83,12 +83,113 @@ body {
   font-size: $type-size-4;
 }
 
+.page__content h2.project-title {  
+  display: inline-block;  /* Shrink-wrap the header to its text width */
+  margin-top: 1em;
+  margin-bottom: 0em;
+  border-bottom: 2px solid $border-color;  /* Underline that spans only the text */
+ }
+ul li p.publication-details {
+  font-style: italic;
+  font-size: 0.8em;
+  margin-top: 0em !important;
+  margin-bottom: 0em !important;
+}
+
+ul li p.talk-details {
+  font-style: normal;
+  font-size: 0.85em;
+  margin-top: 0em !important;
+  margin-bottom: 0em !important;
+}
+
+.page__content h2.color-title {
+  font-weight: normal;
+  color: $rss-color;
+  padding-bottom: 0 !important;
+  display: inline-block; 
+  border-bottom: 2px solid $border-color !important;
+  margin-top: 0em;
+  margin-bottom: 0em;
+
+}
+
+.page__content h2.award-title {
+  text-align: right !important;
+  font-weight: normal;
+  color: $rss-color;
+  padding-bottom: 0 !important;
+  display: inline-block; 
+  border-bottom: 2px solid $border-color !important;
+  margin-top: 0em;
+  margin-bottom: 0em;
+
+}
+
+.page__content h2.general-title {
+  padding-bottom: 0 !important;
+  border-bottom: 2px solid $border-color !important;  /* Underline that spans only the text */
+  display: inline-block;  /* Shrink-wrap the header to its text width */
+  margin-top: 0em;
+  margin-bottom: 0em;
+  
+}
+
+.general-title {  
+  display: inline-block;  /* Shrink-wrap the header to its text width */
+  margin-top: 1em;
+  margin-bottom: 0em;
+  border-bottom: 2px solid $border-color;  /* Underline that spans only the text */
+  padding-bottom: 0em;
+}
+
+.page__content p.award-details {
+  font-weight: normal; /* Ensures the paragraph text is normal */
+}
+.awards-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(10em, 1fr)); /* Adjust min-width as needed */
+  gap: 1em; /* Space between cards */
+  margin: 1em 0; /* Optional: vertical spacing around the grid */
+}
+.award-card {
+  background-color: transparent;
+  padding: 1em;                /* Internal spacing */
+  text-align: center;          /* Center content inside card */
+}
+
+.award-image{  
+  height: 10em;
+  width: auto;
+  display: block;
+  object-fit: contain;
+  margin: 0 auto 0em;
+}
+
+.award-description p {
+  margin: 0.5em 0 0;           /* Adjust paragraph spacing within the card */
+  font-size: 0.9em;            /* Smaller font size for the description */
+}
+
+.page__content p.award-details mamul {
+  font-weight: normal;         /* Force bold */
+  border-bottom: 2px solid $rss-color;
+  padding-bottom: 0em;  
+}
+
+.page__content p.award-details strong {
+  font-weight: bold;         /* Force bold */
+  border-bottom: 2px solid $border-color;
+  padding-bottom: 0em;  
+}
 .page__content {
-  h2 {
+  h2 {    
+
     padding-bottom: 0.5em;
-    border-bottom: 1px solid $border-color;
+    border-bottom: 1px solid $border-color;    
   }
 
+  
 	h1, h2, h3, h4, h5, h6 {
 		.header-link {
 			position: relative;
@@ -124,6 +225,35 @@ body {
       }
     }
   }
+
+    /* Style for your highlighted links */
+  .highlight-link {
+    color: #3b9cba;            /* Change this to your desired color */    
+    text-decoration: none;     /* Remove default underline */
+    
+    padding: 0em 0em;       /* Add some padding around the text */
+    border-radius: 0px;        /* Optional: slight rounding of corners */
+    transition: background-color 0.2s, color 0.2s; /* Smooth hover transition */
+  }
+
+  /* Hover effect to enhance interactivity */
+  .highlight-link:hover {
+    color: $focus-color;
+    
+    text-decoration: none;
+  }
+
+
+  /* Remove the focus outline on all anchor elements */
+  a:focus, a:active {
+  outline: none;
+  border: none;
+  }
+
+  .no-hover-effect:hover img {
+    box-shadow: none !important;
+  }
+ 
 
   a:not(.btn) {
     &:hover {

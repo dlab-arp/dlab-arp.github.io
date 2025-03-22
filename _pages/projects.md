@@ -100,10 +100,112 @@ permalink: /projects/
 </table>
 
 
+<div class="projects-page">
+<div class="project-title-wrapper" style="text-align: center; margin-top: 1.5em">
+<h2 class="project-title" style="word-break: break-word; overflow-wrap: break-word;">NeuroGleam: Illuminating Small Vessel Disease Detection through Deep Learning based Segmentation of Brain MRI White Matter Hyperintensities</h2>
+</div>
+<figure style="text-align: center; margin-bottom: 0em;">
+  <a href="/assets/images/maxatac_arch.PNG" target="_blank" class="no-hover-effect" style="display: block; width: 100%; margin: 0 auto; margin-bottom: 0em">
+    <img src="/assets/images/maxatac_arch.PNG" alt="HEp2" style="max-height: 256px; object-fit: contain;">
+  </a>
+  <figcaption style="text-align: center; font-style: italic; font-size: 0.9em; color: rgba(136, 5, 176, 0.99); margin: 0 auto; margin-top: 0em; margin-bottom: 1em">
+    NeuroGleam: Illuminating Small Vessel Disease Detection through Deep Learning based Segmentation of Brain MRI White Matter Hyperintensities
+  </figcaption>
+</figure>
+<p style="margin-bottom: 0;">White matter hyperintensities (WMHs) are a key neuroimaging biomarker for cerebral small vessel disease (SVD) and age-related brain changes. Yet, their accurate detection in clinical MRI scans—especially using low-resolution T2-FLAIR images—remains a major challenge. NeuroGleam tackles this by developing and benchmarking deep learning models that segment WMHs with precision, scalability, and clinical applicability.</p>
+<p style="margin-bottom: 0; text-indent: 0em;">We systematically evaluated a wide range of architectures—including U-Net variants and HRNet-based models—across two diverse datasets: the research-grade MICCAI WMH Challenge dataset and the real-world APRlSE clinical dataset. Our pipeline included patch-based processing, advanced loss functions like Focal Tversky Loss, and Bayesian hyperparameter optimization to improve both accuracy and generalizability. Despite strong in-domain performance (Dice scores up to 0.682), our findings underscore the significant performance drop under domain shifts—highlighting the urgent need for domain-adaptive models for clinical use.</p>
+<p style="margin-bottom: 0; text-indent: 0em;">NeuroGleam lays the foundation for robust, real-world WMH segmentation tools that could enhance diagnostic workflows for SVD, stroke risk, and cognitive decline in everyday radiology settings.</p>
+</div>
+<table style="width: 100%;  margin-top: 0em; border-collapse: collapse;">
+  <tbody>
+    <tr>
+      <td style="width: auto; padding: 0em; text-align: left; vertical-align: middle; border: none;"><div style="font-size: 1.4em;">Learn More: </div></td>
+      <td style="padding: 0.5em; border: none; vertical-align: middle;"><a href="#" class="highlight-link" onclick="alert('Coming Soon!'); return false;"  target="_blank" rel="noopener noreferrer"><div style="font-size: 1.4em;">Paper</div></a></td>
+      <td style="padding: 0.5em; border: none; vertical-align: middle; "><a href="#" class="highlight-link" onclick="alert('Coming Soon!'); return false;" target="_blank" rel="noopener noreferrer;"><div style="font-size: 1.4em;">Code</div></a></td>
+    </tr>
+    
+  </tbody>
+</table>
 
-<!--Learn More | <a href="#" class="highlight-link" onclick="alert('Coming Soon!'); return false;">Paper</a> | <a href="#"  class="highlight-link" onclick="alert('Coming Soon!'); return false;">Code</a> font-size: 1.1em; style="font-size: 1.1em;"-->
 
+<div class="projects-page">
+<div class="project-title-wrapper" style="text-align: center; margin-top: 1.5em">
+<h2 class="project-title" style="word-break: break-word; overflow-wrap: break-word;">AI-driven Gait Parameters Estimation from Videos for Cerebral Palsy Patients</h2>
+</div>
+<figure style="text-align: center; margin-bottom: 0em;">
+  <a href="/assets/images/maxatac_arch.PNG" target="_blank" class="no-hover-effect" style="display: block; width: 100%; margin: 0 auto; margin-bottom: 0em">
+    <img src="/assets/images/maxatac_arch.PNG" alt="HEp2" style="max-height: 256px; object-fit: contain;">
+  </a>
+  <figcaption style="text-align: center; font-style: italic; font-size: 0.9em; color: rgba(136, 5, 176, 0.99); margin: 0 auto; margin-top: 0em; margin-bottom: 1em">
+    AI-driven Estimation of Gait Parameters from Videos for Cerebral Palsy Patients    
+  </figcaption>
+</figure>
+<p style="margin-bottom: 0;">Gait analysis is critical for managing Cerebral Palsy (CP)—a condition marked by motor dysfunction affecting posture and movement. Traditionally performed in costly, sensor-equipped motion labs, clinical gait assessments are often out of reach for many patients due to logistical and financial constraints.</p>
+<p style="margin-bottom: 0; text-indent: 0em;">This project reimagines gait analysis using AI. By processing low-resolution videos from regular smartphone cameras, we estimate gait impairment using Observational Gait Score (OGS) — without the need for wearable sensors or specialized environments. Our pipeline combines pose estimation (via BlazePose), semantic feature extraction, and a deep learning model trained to predict limb-specific OGS and symmetry scores from real-world pediatric videos.</p>
+<p style="margin-bottom: 0; text-indent: 0em;">Despite challenges like background distractors and non-cooperative subjects, our models show promising results and demonstrate the clinical potential of AI-powered, low-cost gait monitoring for enhancing care accessibility and continuity in CP patients.</p>
+</div>
+<table style="width: 100%;  margin-top: 0em; border-collapse: collapse;">
+  <tbody>
+    <tr>
+      <td style="width: auto; padding: 0em; text-align: left; vertical-align: middle; border: none;"><div style="font-size: 1.4em;">Learn More: </div></td>
+      <td style="padding: 0.5em; border: none; vertical-align: middle;"><a href="#" class="highlight-link" onclick="alert('Coming Soon!'); return false;"  target="_blank" rel="noopener noreferrer"><div style="font-size: 1.4em;">Paper</div></a></td>
+      <td style="padding: 0.5em; border: none; vertical-align: middle; "><a href="#" class="highlight-link" onclick="alert('Coming Soon!'); return false;" target="_blank" rel="noopener noreferrer;"><div style="font-size: 1.4em;">Code</div></a></td>
+    </tr>
+    
+  </tbody>
+</table>
 
-<!-- This is the last div. -->
+<div class="projects-page">
+<div class="project-title-wrapper" style="text-align: center; margin-top: 1.5em">
+<h2 class="project-title" style="word-break: break-word; overflow-wrap: break-word;">DeepImmuno: deep learning-empowered
+prediction and generation of immunogenic peptides for T-cell immunity</h2>
+</div>
+<figure style="text-align: center; margin-bottom: 0em;">
+  <a href="/assets/images/maxatac_arch.PNG" target="_blank" class="no-hover-effect" style="display: block; width: 100%; margin: 0 auto; margin-bottom: 0em">
+    <img src="/assets/images/maxatac_arch.PNG" alt="HEp2" style="max-height: 256px; object-fit: contain;">
+  </a>
+  <figcaption style="text-align: center; font-style: italic; font-size: 0.9em; color: rgba(136, 5, 176, 0.99); margin: 0 auto; margin-top: 0em; margin-bottom: 1em">
+    DeepImmuno: deep learning-empowered prediction and generation of immunogenic peptides for T-cell immunity  
+  </figcaption>
+</figure>
+<p style="margin-bottom: 0;">The immune system’s ability to detect threats hinges on T cells recognizing short peptides—called epitopes—presented by MHC molecules on the surface of infected or abnormal cells. Accurately predicting which peptides can trigger T-cell responses is central to designing vaccines, cancer immunotherapies, and diagnostic tools. Identifying immunogenic peptides is experimentally costly and biologically complex.</p>
+<p style="margin-bottom: 0; text-indent: 0em;">DeepImmuno is a deep learning framework that not only predicts immunogenicity with high accuracy, but also generates new peptide candidates using GAN (Generative Adversarial Network). Built on a robust beta-binomial statistical foundation, DeepImmuno learns from thousands of experimentally validated peptide–MHC examples to forecast which epitopes will activate T cells, and why. Its generative module, DeepImmuno-GAN, creates realistic peptides that mirror known antigens in key biochemical and structural features.</p>
+<p style="margin-bottom: 0; text-indent: 0em;">Tested on SARS-CoV-2 and tumor neoantigen datasets, DeepImmuno consistently outperforms state-of-the-art models and provides insights into critical TCR-contacting residues. With both a web interface and open-source code, it's a powerful platform for immune research and translational medicine.</p>
+</div>
+<table style="width: 100%;  margin-top: 0em; border-collapse: collapse;">
+  <tbody>
+    <tr>
+      <td style="width: auto; padding: 0em; text-align: left; vertical-align: middle; border: none;"><div style="font-size: 1.4em;">Learn More: </div></td>
+      <td style="padding: 0.5em; border: none; vertical-align: middle;"><a href="https://doi.org/10.1093/bib/bbab160" class="highlight-link" target="_blank" rel="noopener noreferrer"><div style="font-size: 1.4em;">Paper</div></a></td>
+      <td style="padding: 0.5em; border: none; vertical-align: middle; "><a href="https://github.com/frankligy/DeepImmuno" class="highlight-link" target="_blank" rel="noopener noreferrer;"><div style="font-size: 1.4em;">Code</div></a></td>
+      <td style="padding: 0.5em; border: none; vertical-align: middle; "><a href="https://deepimmuno.research.cchmc.org/" class="highlight-link" target="_blank" rel="noopener noreferrer;"><div style="font-size: 1.4em;">Web Interface</div></a></td>
+    </tr>    
+  </tbody>
+</table>
 
-
+<div class="projects-page">
+<div class="project-title-wrapper" style="text-align: center; margin-top: 1.5em">
+<h2 class="project-title" style="word-break: break-word; overflow-wrap: break-word;">Building Classifier for Streaming Data</h2>
+</div>
+<figure style="text-align: center; margin-bottom: 0em;">
+  <a href="/assets/images/Bearing_Flow_Diagram_Training.jpg" target="_blank" class="no-hover-effect" style="display: block; width: 100%; margin: 0 auto; margin-bottom: 0em">
+    <img src="/assets/images/Bearing_Flow_Diagram_Training.jpg" alt="JPEG Image" style="max-height: 256px; object-fit: contain;">
+  </a>
+  <figcaption style="text-align: center; font-style: italic; font-size: 0.9em; color: rgba(136, 5, 176, 0.99); margin: 0 auto; margin-top: 0em; margin-bottom: 1em">
+    Building Classifier for Streaming Data 
+  </figcaption>
+</figure>
+<p style="margin-bottom: 0;">Bearings are the heartbeat of rotating machinery in manufacturing systems, and their failure can lead to costly downtimes and equipment damage. Traditional preventive maintenance methods often fall short in capturing the nuanced degradation behaviors of bearings in real-world settings. In this study, we present a novel classification framework that transforms bearing failure prediction into a binary classification problem — identifying whether a bearing failure is imminent within three weeks.</p>
+<p style="margin-bottom: 0; text-indent: 0em;">Utilizing a streaming data paradigm, the proposed method leverages vibration signal processing, Welch’s power spectral density (PSD) estimation, and Bhattacharyya distance-based similarity measures to identify temporal operating modes (TOMs). These TOMs act as behavioral landmarks, capturing subtle shifts in bearing dynamics across time. Our classifier adapts to new data via a linear range compensation mechanism, enabling accurate cross-dataset predictions even under varying operational conditions.</p>
+<p style="margin-bottom: 0; text-indent: 0em;">Experimental results demonstrate high accuracy and recall compared to traditional SVM baselines, particularly when tested across diverse degradation scenarios. This work lays the groundwork for scalable, adaptive health monitoring systems capable of real-time decision-making in industrial IoT and smart manufacturing environments.</p>
+</div>
+<table style="width: 100%;  margin-top: 0em; border-collapse: collapse;">
+  <tbody>
+    <tr>
+      <td style="width: auto; padding: 0em; text-align: left; vertical-align: middle; border: none;"><div style="font-size: 1.4em;">Learn More: </div></td>
+      <td style="padding: 0.5em; border: none; vertical-align: middle;"><a href="#" class="highlight-link" onclick="alert('Coming Soon!'); return false;"  target="_blank" rel="noopener noreferrer"><div style="font-size: 1.4em;">Paper</div></a></td>
+      <td style="padding: 0.5em; border: none; vertical-align: middle; "><a href="#" class="highlight-link" onclick="alert('Coming Soon!'); return false;" target="_blank" rel="noopener noreferrer;"><div style="font-size: 1.4em;">Code</div></a></td>
+    </tr>
+    
+  </tbody>
+</table>

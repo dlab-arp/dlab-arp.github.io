@@ -1,18 +1,16 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
   - title: "Projects"
     url: /projects/
   - title: "Skills"
     url: /skills/
-  - title: "Awards"
+  - title: "Awards & Volunteering"
     url: /awards/
   - title: "Publications"
     url: /publications/
   - title: "Presentations"
     url: /presentations/
-  - title: "Profiles"
+  - title: "Online Profiles"
     url: /profiles/
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
@@ -24,3 +22,6 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  # - title: "About"
+  #   url: /about/
+  

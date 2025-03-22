@@ -182,6 +182,43 @@ ul li p.talk-details {
   border-bottom: 2px solid $border-color;
   padding-bottom: 0em;  
 }
+
+.contact-form {
+  max-width: 70%;
+  margin: 0em auto;
+  background-color: transparent;
+}
+
+.contact-form label {
+  display: block;
+  margin-bottom: 0em;
+}
+
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  height: 0%;
+  padding: 0em;
+  background-color: transparent;
+  margin-bottom: 1em;    
+}
+
+.contact-form textarea {
+  min-height: 5em; /* Adjust this value as needed */
+  border: 1px solid #007acc
+
+}
+
+.contact-form button {
+  display: block;
+  padding: 0.7em 1.5em;
+  background: #007acc;
+  color: #fff;
+  border: none;  
+  cursor: pointer;
+}
+
+
 .page__content {
   h2 {    
 

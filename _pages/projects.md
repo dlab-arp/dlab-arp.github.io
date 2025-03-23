@@ -77,11 +77,11 @@ permalink: /projects/
 <h2 class="project-title">Benchmarking HEp-2 Cell Segmentation Methods in Indirect Immunofluorescence Images - Standard Models to Deep Learning</h2>
 </div>
 <figure style="text-align: center; margin-bottom: 0em;">
-  <a href="/assets/images/maxatac_arch.PNG" target="_blank" class="no-hover-effect" style="display: block; width: 100%; margin: 0 auto; margin-bottom: 0em">
-    <img src="/assets/images/maxatac_arch.PNG" alt="HEp2" style="max-height: 256px; object-fit: contain;">
+  <a href="/assets/images/hep2_archs.PNG" target="_blank" class="no-hover-effect" style="display: block; width: 100%; margin: 0 auto; margin-bottom: 0em">
+    <img src="/assets/images/hep2_archs.PNG" alt="HEp2" style="max-height: 256px; object-fit: contain;">
   </a>
   <figcaption style="text-align: center; font-style: italic; font-size: 0.9em; color: rgba(136, 5, 176, 0.99); margin: 0 auto; margin-top: 0em; margin-bottom: 1em">
-    HEp2 Image: Need HEp2 Images...check how well this works
+   The architecture of some of the deep learning based segmentation models considered for Benchmarking
   </figcaption>
 </figure>
 <p style="margin-bottom: 0;">Indirect Immunofluorescence (IIF) is a gold-standard technique for detecting autoimmune diseases, relying on HEp-2 (Human Epithileal) cell imaging to identify autoantibodies linked to conditions such as lupus, rheumatoid arthritis, and multiple sclerosis. However, manual assessment of these fluorescence patterns is time-consuming and subject to variability, necessitating automated solutions for accurate and reproducible analysis.</p>
@@ -105,11 +105,11 @@ permalink: /projects/
 <h2 class="project-title" style="word-break: break-word; overflow-wrap: break-word;">NeuroGleam: Illuminating Small Vessel Disease Detection through Deep Learning based Segmentation of Brain MRI White Matter Hyperintensities</h2>
 </div>
 <figure style="text-align: center; margin-bottom: 0em;">
-  <a href="/assets/images/maxatac_arch.PNG" target="_blank" class="no-hover-effect" style="display: block; width: 100%; margin: 0 auto; margin-bottom: 0em">
-    <img src="/assets/images/maxatac_arch.PNG" alt="HEp2" style="max-height: 256px; object-fit: contain;">
+  <a href="/assets/images/wmh_1.png" target="_blank" class="no-hover-effect" style="display: block; width: 100%; margin: 0 auto; margin-bottom: 0em">
+    <img src="/assets/images/wmh_1.png" alt="HEp2" style="max-height: 256px; object-fit: contain;">
   </a>
   <figcaption style="text-align: center; font-style: italic; font-size: 0.9em; color: rgba(136, 5, 176, 0.99); margin: 0 auto; margin-top: 0em; margin-bottom: 1em">
-    NeuroGleam: Illuminating Small Vessel Disease Detection through Deep Learning based Segmentation of Brain MRI White Matter Hyperintensities
+    Segmentation of White Matter Hyperintensities (WMH) from Brain MRI Scans. The regions highlighted in red are the WMH predictions of the HR-Net model 
   </figcaption>
 </figure>
 <p style="margin-bottom: 0;">White matter hyperintensities (WMHs) are a key neuroimaging biomarker for cerebral small vessel disease (SVD) and age-related brain changes. Yet, their accurate detection in clinical MRI scans—especially using low-resolution T2-FLAIR images—remains a major challenge. NeuroGleam tackles this by developing and benchmarking deep learning models that segment WMHs with precision, scalability, and clinical applicability.</p>
@@ -133,11 +133,11 @@ permalink: /projects/
 <h2 class="project-title" style="word-break: break-word; overflow-wrap: break-word;">AI-driven Gait Parameters Estimation from Videos for Cerebral Palsy Patients</h2>
 </div>
 <figure style="text-align: center; margin-bottom: 0em;">
-  <a href="/assets/images/maxatac_arch.PNG" target="_blank" class="no-hover-effect" style="display: block; width: 100%; margin: 0 auto; margin-bottom: 0em">
-    <img src="/assets/images/maxatac_arch.PNG" alt="HEp2" style="max-height: 256px; object-fit: contain;">
+  <a href="/assets/images/Gait_Arch.png" target="_blank" class="no-hover-effect" style="display: block; width: 100%; margin: 0 auto; margin-bottom: 0em">
+    <img src="/assets/images/Gait_Arch.png" alt="HEp2" style="max-height: 256px; object-fit: contain;">
   </a>
   <figcaption style="text-align: center; font-style: italic; font-size: 0.9em; color: rgba(136, 5, 176, 0.99); margin: 0 auto; margin-top: 0em; margin-bottom: 1em">
-    AI-driven Estimation of Gait Parameters from Videos for Cerebral Palsy Patients    
+    Autoencoder Based CNN Architecture for Gait Parameter Estimation 
   </figcaption>
 </figure>
 <p style="margin-bottom: 0;">Gait analysis is critical for managing Cerebral Palsy (CP)—a condition marked by motor dysfunction affecting posture and movement. Traditionally performed in costly, sensor-equipped motion labs, clinical gait assessments are often out of reach for many patients due to logistical and financial constraints.</p>
@@ -161,11 +161,11 @@ permalink: /projects/
 prediction and generation of immunogenic peptides for T-cell immunity</h2>
 </div>
 <figure style="text-align: center; margin-bottom: 0em;">
-  <a href="/assets/images/maxatac_arch.PNG" target="_blank" class="no-hover-effect" style="display: block; width: 100%; margin: 0 auto; margin-bottom: 0em">
-    <img src="/assets/images/maxatac_arch.PNG" alt="HEp2" style="max-height: 256px; object-fit: contain;">
+  <a href="/assets/images/deepimmuno.jpeg" target="_blank" class="no-hover-effect" style="display: block; width: 100%; margin: 0 auto; margin-bottom: 0em">
+    <img src="/assets/images/deepimmuno.jpeg" alt="HEp2" style="max-height: 256px; object-fit: contain;">
   </a>
   <figcaption style="text-align: center; font-style: italic; font-size: 0.9em; color: rgba(136, 5, 176, 0.99); margin: 0 auto; margin-top: 0em; margin-bottom: 1em">
-    DeepImmuno: deep learning-empowered prediction and generation of immunogenic peptides for T-cell immunity  
+    DeepImmuno Architecture and Workflow   
   </figcaption>
 </figure>
 <p style="margin-bottom: 0;">The immune system’s ability to detect threats hinges on T cells recognizing short peptides—called epitopes—presented by MHC molecules on the surface of infected or abnormal cells. Accurately predicting which peptides can trigger T-cell responses is central to designing vaccines, cancer immunotherapies, and diagnostic tools. Identifying immunogenic peptides is experimentally costly and biologically complex.</p>

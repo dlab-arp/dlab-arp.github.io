@@ -78,7 +78,7 @@ permalink: /projects/
 </div>
 <figure style="text-align: center; margin-bottom: 0em;">
   <a href="/assets/images/hep2_archs.PNG" target="_blank" class="no-hover-effect" style="display: block; width: 100%; margin: 0 auto; margin-bottom: 0em">
-    <img src="/assets/images/hep2_archs.PNG" alt="HEp2" style="max-height: 256px; object-fit: contain;">
+    <img src="/assets/images/hep2_archs.PNG" alt="HEp2" style="max-height: 256px; width: 80%; object-fit: contain;">
   </a>
   <figcaption style="text-align: center; font-style: italic; font-size: 0.9em; color: rgba(136, 5, 176, 0.99); margin: 0 auto; margin-top: 0em; margin-bottom: 1em">
    The architecture of some of the deep learning based segmentation models considered for Benchmarking

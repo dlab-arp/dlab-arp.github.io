@@ -17,8 +17,7 @@ permalink: /
     <p>
       I’m Balaji Iyer, a data scientist and software developer. Explore my resume, projects, and skills.
     </p>
-    <p>
-      Check out my CV/Resume</p>
+    <p>Check out my <a href="/assets/Resume/Balaji Resume.pdf" class="highlight-link" style="font-size: 1.1em;" target="_blank" rel="noopener noreferrer">CV/Resume</a></p>
     <div class="project-title-wrapper" style="text-align: center;">
       <h2 class="color-title" style="margin-bottom: 0em">Contact Me</h2>
     </div>    

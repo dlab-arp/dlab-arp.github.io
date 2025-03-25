@@ -47,9 +47,8 @@ permalink: /awards/
 <h2 class="color-title" style="margin-top: 0em">Hackathons</h2>
 </div>
 <ul>
-  <li><p class="award-details" style="font-size: 0.9em;"> P&G Global Hackathon 2024, USA: Designed and Developed a RAG based Chatbot for answering questions using a Clinical Trial Metadata</p></li>
-  <li><p class="award-details" style="font-size: 0.9em;"> UC Hackathon 2019, USA: Designed and Developed a Clustering Algorithm for RAG based Chatbot for answering questions using a Clinical Trial Metadata</p></li>
-  <li><p class="award-details" style="font-size: 0.9em;"> UC Hackathon 2024, USA: Designed and Developed a Clustering Algorithm for RAG based Chatbot for answering questions using a Clinical Trial Metadata</p></li>        
+  <li><p class="award-details" style="font-size: 0.9em;"> P&G Global Hackathon 2024, USA: Designed and Developed a RAG based Chatbot using Llama for answering questions from a Clinical Trial Metadata dataset</p></li>
+  <li><p class="award-details" style="font-size: 0.9em;"> UC Hackathon 2019, USA: Designed and Developed a Clustering Algorithm for P&G product composition data</p></li>     
 </ul>
 
 <div class="project-title-wrapper" style="text-align: center; margin-top: 0em; ">

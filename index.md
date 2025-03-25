@@ -48,10 +48,18 @@ permalink: /
   <!-- Right Column: Images -->
   <div class="about-image-right" style="flex: 1; text-align: center;">
     <div class="images-grid" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1em; margin-top: 1em;">
+      <a href="/assets/images/Balaji_1.jpg" target="_blank">
       <img src="/assets/images/Balaji_1.jpg" alt="Image 1" style="width: 90%; height: auto;">
-      <img src="/assets/images/Balaji_1.jpg" alt="Image 2" style="width: 90%; height: auto;">
-      <img src="/assets/images/Balaji_1.jpg" alt="Image 3" style="width: 90%; height: auto;">
-      <img src="/assets/images/Balaji_1.jpg" alt="Image 4" style="width: 90%; height: auto;">
+      </a>
+            <a href="/assets/images/Balaji_1.jpg" target="_blank">
+      <img src="/assets/images/Balaji_1.jpg" alt="Image 1" style="width: 90%; height: auto;">
+      </a>
+            <a href="/assets/images/Balaji_1.jpg" target="_blank">
+      <img src="/assets/images/Balaji_1.jpg" alt="Image 1" style="width: 90%; height: auto;">
+      </a>
+            <a href="/assets/images/Balaji_1.jpg" target="_blank">
+      <img src="/assets/images/Balaji_1.jpg" alt="Image 1" style="width: 90%; height: auto;">
+      </a>
     </div>
   </div>
 </div>

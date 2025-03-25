@@ -27,6 +27,7 @@ permalink: /publications/
 <h2 class="color-title">In Preparation</h2>
 
 <ul>
+    <li><p class="publication-details" > Mohanasundaram B., Li M., <strong>Iyer B.</strong>, Trong R., and Pandey S. "A computational framework for moss leaf cell quantification and 3D modeling."</p></li>
     <li><p class="publication-details" > <strong>Balaji Iyer</strong>, et.al. "NeuroGleam: Illuminating Small Vessel Disease Detection through Deep Learning based Segmentation of Brain MRI White Matter Hyperintensities."</p></li>
     <li><p class="publication-details" ><strong>Balaji Iyer</strong>, et.al. "ConIFSeg - Confocal immunofluorescence image segmentation with deep learning for discerning developing lung structures."</p></li>
     <li><p class="publication-details" ><strong>Balaji Iyer</strong>, et.al. Book chapter: “Application of Multimodal Deep Learning in Medicine”</p></li>

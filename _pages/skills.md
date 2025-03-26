@@ -42,7 +42,7 @@ permalink: /skills/
   <tbody>
     <tr>
       <td style="padding: 0.5em; vertical-align: top;"><strong>Supervised Learning</strong></td>
-      <td style="padding: 0.5em;">CNN, RNN, LSTM, GRU, Transformers, MAMBA, KAN, SVM</td>
+      <td style="padding: 0.5em;">CNN, RNN, LSTM, GRU, Transformers, LLM, RAG, MAMBA, KAN, SVM</td>
     </tr>
     <tr>
       <td style="padding: 0.5em; vertical-align: top;"><strong>Geometric Deep Learning</strong></td>

@@ -4,10 +4,10 @@ permalink: /projects/
 ---
 <!-- Project Cards Section at the Top  -->
 
-<div class="projects-cards" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 0em; margin: 2em auto;">
+<div class="projects-cards" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(10em, 1fr)); gap: 0em; margin: 0em auto;">
   <!-- Card for Project 1 class="project-card" class="project-icon"-->
   <a href="#XORSegmentation"  style="text-decoration: none; color: inherit; border: transparent; padding: 0em; border-radius: 0px; display: block;">
-    <div  style="text-align: center; margin: 0em; margin-bottom: 0em;">
+    <div  style="text-align: center; margin-top: 2em; margin-bottom: 0em;">
       <img src="/assets/projects/Reimagining_icon.png" alt="XORSegmentation Icon" style="width: 8em; height: 8em;">
     </div>    
     <h3 style="text-align: center; font-weight:normal; font-size: 1em; margin-top: 0.2em; margin-bottom: 0em;">Reimagining Interpretability</h3>  
@@ -15,7 +15,7 @@ permalink: /projects/
   
   <!-- Card for Project 2 -->
   <a href="#maxATAC" class="project-card" style="text-decoration: none; color: inherit; border: transparent; padding: 0em; border-radius: 0px; display: block;">
-    <div class="project-icon" style="text-align: center; margin: 0em; margin-bottom: 0em;">
+    <div class="project-icon" style="text-align: center; margin-top: 2em; margin-bottom: 0em;">
       <img src="/assets/projects/maxatac_icon.PNG" alt="Project 2 Icon" style="width: 8em; height: 8em;">
     </div>
     <h3 style="text-align: center; font-weight:normal; font-size: 1em; margin-top: 0.2em; margin-bottom: 0em;">maxATAC</h3>    
@@ -23,7 +23,7 @@ permalink: /projects/
   
   <!-- Card for Project 3 -->
   <a href="#HEp-2" class="project-card" style="text-decoration: none; color: inherit; border: transparent; padding: 0em; border-radius: 0px; display: block;">
-    <div class="project-icon" style="text-align: center; margin: 0em; margin-bottom: 0em;">
+    <div class="project-icon" style="text-align: center; margin-top: 2em; margin-bottom: 0em;">
       <img src="/assets/projects/Hep2_icon.PNG" alt="Project 2 Icon" style="width: 8em; height: 8em;">
     </div>
     <h3 style="text-align: center; font-weight:normal; font-size: 1em; margin-top: 0.2em; margin-bottom: 0em;">HEp-2 Benchmarking</h3>    

@@ -1,14 +1,14 @@
 # main links
 main:
-  - title: "Projects"
+  - title: Projects 
     url: /projects/
   - title: "Skills"
     url: /skills/
-  - title: "Awards & Volunteering"
+  - title: "Awards"
     url: /awards/
   - title: "Publications"
     url: /publications/
-  - title: "Presentations & Talks"
+  - title: "Presentations"
     url: /presentations/
   - title: "Online Profiles"
     url: /profiles/

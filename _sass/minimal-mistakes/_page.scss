@@ -44,8 +44,9 @@ body {
     width: calc(100% - #{$right-sidebar-width});
     padding-inline-end: $right-sidebar-width;
   }
-
+  
   .page__inner-wrap {
+    
     float: inline-start;
     margin-top: 1em;
     margin-inline: 0;
@@ -60,7 +61,7 @@ body {
       margin-inline: 0;
       width: 100%;
       clear: both;
-    }
+    }    
   }
 }
 
@@ -124,6 +125,16 @@ ul li p.talk-details {
   margin-top: 0em;
   margin-bottom: 0em;
 
+}
+
+.page__content h3.icon-title {
+  padding-bottom: 0 !important;
+  font-size: $type-size-7 !important;
+  border-bottom: 2px solid $border-color !important;  /* Underline that spans only the text */
+  display: inline-block;  /* Shrink-wrap the header to its text width */
+  margin-top: 0em;
+  margin-bottom: 0em;
+  
 }
 
 .page__content h2.general-title {

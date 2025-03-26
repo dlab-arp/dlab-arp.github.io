@@ -4,7 +4,7 @@
 
 .masthead {
   position: relative;
-  border-bottom: 1px solid $border-color;
+  border-bottom: 1px solid $border-color;  
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
   -webkit-animation-delay: 0.15s;
@@ -48,20 +48,22 @@
   display: flex;
   -ms-flex-item-align: center;
   align-self: center;
-  font-weight: bold;
+  font-weight: normal;
   // z-index: 20;
 }
 
 .site-subtitle {
   display: block;
-  font-size: $type-size-8;
+  font-size: $type-size-8; 
 }
 
 .masthead__menu {
   float: inline-start;
-  margin-inline: 0;
+  margin-inline: 12%; //adjust the masthead width
   width: 100%;
   clear: both;
+  font-size: $type-size-7; 
+  
 
   .site-nav {
     margin-inline-start: 0;
@@ -80,12 +82,17 @@
 }
 
 .masthead__menu-item {
+  margin-right: 0em !important; /* Adjust this value to increase or decrease spacing */
+  margin-left: 0em !important; /* Adjust this value to increase or decrease spacing */
+  padding-left: 0em !important;
+  padding-right: 0em !important;
   display: block;
   list-style-type: none;
   white-space: nowrap;
 
+
   &--lg {
-    padding-inline-end: 2em;
+    padding-inline-end: 20em;
     font-weight: 700;
   }
 }

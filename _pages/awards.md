@@ -6,9 +6,7 @@ permalink: /awards/
 <div class="project-title-wrapper" style="text-align: center; margin-top: 0em; ">
 <h2 class="award-title">Awards</h2>
 </div>
-
-<div class="awards-container">
-  
+<div class="awards-container">  
   <!-- Award Card 1 -->
   <div class="award-card">
     <img class="award-image" src="/assets/awards/Iyer_Balaji_Award_AHIS23_graduate.png" alt="Aspiring Innovator Award" >

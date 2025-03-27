@@ -4,8 +4,9 @@ layout: single_publications
 permalink: /publications/
 ---
 <div class="publications-page">
-<h2 class="color-title" style="margin-top: 1em">Published Works</h2>
-
+<div class="project-title-wrapper" style="text-align: left; margin-top: 1em;">
+  <h2 class="color-title">Published Works</h2>
+</div>
 <ul>
     <li><p class="publication-details" > Cazares, Tareian A., Faiz W. Rizvi, <strong>Balaji Iyer</strong>, Xiaoting Chen, Michael Kotliar, Anthony T. Bejjani, Joseph A. Wayman et al. "maxATAC: Genome-scale transcription-factor binding prediction from ATAC-seq with deep neural networks." PLOS Computational Biology 19, no. 1 (2023): e1010863.</p></li>
     <li><p class="publication-details"> Li, Guangyuan, <strong>Balaji Iyer</strong>, VB Surya Prasath, Yizhao Ni, and Nathan Salomonis. "DeepImmuno: deep learning-empowered prediction and generation of immunogenic peptides for T-cell immunity." Briefings in bioinformatics 22, no. 6 (2021): bbab160</p></li>

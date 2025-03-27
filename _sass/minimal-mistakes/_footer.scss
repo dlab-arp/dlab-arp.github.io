@@ -4,6 +4,7 @@
 
 .page__footer {
   @include clearfix;
+  display: none;
   float: inline-start;
   margin-inline: 0;
   width: 100%;
@@ -14,7 +15,7 @@
   -webkit-animation-delay: 0.45s;
   animation-delay: 0.45s;
   background-color: $footer-background-color;
-  line-height: 0.5em;
+  line-height: 0em;
   font-size: 0.3em;
   
 

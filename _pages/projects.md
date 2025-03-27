@@ -3,7 +3,9 @@ layout: single_projects
 permalink: /projects/
 ---
 <!-- Project Cards Section at the Top  -->
-
+<div class="project-title-wrapper" style="text-align: center; margin-top: 1em;">
+      <h1 class="general-title;  padding-left: 0em; margin-left: 0em;"><strong>PROJECTS</strong></h1>      
+    </div>
 <div class="projects-cards" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(10em, 1fr)); gap: 0em; margin: 0em auto;">
   <!-- Card for Project 1 class="project-card" class="project-icon"-->
   <a href="#XORSegmentation"  style="text-decoration: none; color: inherit; border: transparent; padding: 0em; border-radius: 0px; display: block;">

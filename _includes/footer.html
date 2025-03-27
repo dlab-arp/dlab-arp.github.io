@@ -1,5 +1,6 @@
-<div class="page__footer-follow">
-  <ul class="social-icons">
+
+<div class="page__footer-follow" style="display: none;">
+  <ul class="social-icons" style="display: none;">
     {% if site.data.ui-text[site.locale].follow_label %}
       <li>temp_1</li>
     {% endif %}
@@ -18,4 +19,4 @@
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} </div>
+<div class="page__footer-copyright" style="display: none;">&copy; {{ site.time | date: '%Y' }} </div> 

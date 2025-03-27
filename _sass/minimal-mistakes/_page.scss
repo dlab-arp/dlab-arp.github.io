@@ -137,6 +137,15 @@ ul li p.talk-details {
   
 }
 
+.page__content h1.general-title {
+  padding-bottom: 0 !important;
+  border-bottom: 2px solid $border-color !important;  /* Underline that spans only the text */
+  display: inline-block;  /* Shrink-wrap the header to its text width */
+  margin-top: 0em;
+  margin-bottom: 0em;
+  
+}
+
 .page__content h2.general-title {
   padding-bottom: 0 !important;
   border-bottom: 2px solid $border-color !important;  /* Underline that spans only the text */
@@ -277,8 +286,7 @@ ul li p.talk-details {
     /* Style for your highlighted links */
   .highlight-link {
     color: #3b9cba;            /* Change this to your desired color */    
-    text-decoration: none;     /* Remove default underline */
-    
+    text-decoration: none;     /* Remove default underline */    
     padding: 0em 0em;       /* Add some padding around the text */
     border-radius: 0px;        /* Optional: slight rounding of corners */
     transition: background-color 0.2s, color 0.2s; /* Smooth hover transition */
@@ -286,8 +294,7 @@ ul li p.talk-details {
 
   /* Hover effect to enhance interactivity */
   .highlight-link:hover {
-    color: $focus-color;
-    
+    color: $focus-color;    
     text-decoration: none;
   }
 
@@ -452,7 +459,7 @@ ul li p.talk-details {
       clip: rect(0 0 0 0);
       height: 1px;
       margin: -1px;
-      overflow: hidden;
+      overflow: auto;
       padding: 0;
       position: absolute;
       width: 1px;

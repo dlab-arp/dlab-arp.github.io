@@ -31,7 +31,7 @@ permalink: /
       As a founding researcher in the Prasath Lab, I’ve worked on 12 interdisciplinary projects (and counting), contributing to open-source tools, high-impact publications, and real-world AI systems spanning a wide range of domains in biology and medicine. Whether I’m developing segmentation benchmarks, crafting generative models, or mentoring future researchers, I’m motivated by a simple goal: build AI that matters..!!
     </p>    
     <p style="margin-top: 0.5em; font-size: 0.85em; text-align: justify; margin-bottom: 0em">
-      I invite you to explore my website—check out my projects and publications, and feel free to browse my <a href="/assets/Resume/Balaji Resume.pdf" class="highlight-link" target="_blank" rel="noopener noreferrer">CV/Resume</a> to learn more.
+      I invite you to explore my website—check out my projects and publications, and feel free to browse my <a href="/assets/Resume/Balaji_Resume.pdf" class="highlight-link" target="_blank" rel="noopener noreferrer">CV/Resume</a> to learn more.
     </p>
     <p style="margin-top: 1em; text-align: justify; font-size: 0.85em; margin-bottom: 0em">
       I'm always open to new ideas and love connecting with people who share a passion for AI and science. If you'd like to chat, brainstorm, or explore ways to collaborate on current or future projects, feel free to leave a message below—I'll get back to you soon!

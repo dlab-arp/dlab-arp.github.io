@@ -20,7 +20,7 @@ permalink: /skills/
     </tr>
     <tr>
       <td style="padding: 0.5em; vertical-align: top;"><strong>Libraries</strong></td>
-      <td style="padding: 0.5em;">NumPy, SciPy, Pandas, Sklearn</td>
+      <td style="padding: 0.5em;">NumPy, SciPy, Pandas, Sklearn, Docker, LangChain</td>
     </tr>
     <tr>
       <td style="padding: 0.5em; vertical-align: top;"><strong>Data Visualization</strong></td>

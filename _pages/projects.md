@@ -3,12 +3,13 @@ layout: single_projects
 permalink: /projects/
 ---
 <!-- Project Cards Section at the Top  -->
-<div class="project-title-wrapper" style="text-align: center; margin-top: 1em;">
-      <h1 class="general-title;  padding-left: 0em; margin-left: 0em;"><strong>PROJECTS</strong></h1>      
-    </div>
+<div class="project-title-wrapper" style="text-align: center; margin-top: 1em; margin-bottom: 0em">
+      <h1 class="general-title" style="padding-left: 0em; margin-left: 0em;"><strong>PROJECTS</strong></h1>      
+</div>
 <div class="projects-cards" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(10em, 1fr)); gap: 0em; margin: 0em auto;">
+
   <!-- Card for Project 1 class="project-card" class="project-icon"-->
-  <a href="#XORSegmentation"  style="text-decoration: none; color: inherit; border: transparent; padding: 0em; border-radius: 0px; display: block;">
+  <a href="#XORSegmentation"  class="lightup" style="text-decoration: none; color: inherit; border: transparent; padding: 0em; border-radius: 0px; display: block;">
     <div  style="text-align: center; margin-top: 2em; margin-bottom: 0em;">
       <img src="/assets/projects/Reimagining_icon.png" alt="XORSegmentation Icon" style="width: 8em; height: 8em;">
     </div>    
@@ -16,7 +17,7 @@ permalink: /projects/
   </a>
   
   <!-- Card for Project 2 -->
-  <a href="#maxATAC" class="project-card" style="text-decoration: none; color: inherit; border: transparent; padding: 0em; border-radius: 0px; display: block;">
+  <a href="#maxATAC" class="lightup_med" style="text-decoration: none; color: inherit; border: transparent; padding: 0em; border-radius: 0px; display: block;">
     <div class="project-icon" style="text-align: center; margin-top: 2em; margin-bottom: 0em;">
       <img src="/assets/projects/maxatac_icon.PNG" alt="Project 2 Icon" style="width: 8em; height: 8em;">
     </div>
@@ -24,7 +25,7 @@ permalink: /projects/
   </a>
   
   <!-- Card for Project 3 -->
-  <a href="#HEp-2" class="project-card" style="text-decoration: none; color: inherit; border: transparent; padding: 0em; border-radius: 0px; display: block;">
+  <a href="#HEp-2" class="lightup_med" style="text-decoration: none; color: inherit; border: transparent; padding: 0em; border-radius: 0px; display: block;">
     <div class="project-icon" style="text-align: center; margin-top: 2em; margin-bottom: 0em;">
       <img src="/assets/projects/Hep2_icon.PNG" alt="Project 2 Icon" style="width: 8em; height: 8em;">
     </div>
@@ -32,7 +33,7 @@ permalink: /projects/
   </a>
 
   <!-- Card for Project 4 -->
-  <a href="#NeuroGleam" class="project-card" style="text-decoration: none; color: inherit; border: transparent; padding: 0em; border-radius: 0px; display: block;">
+  <a href="#NeuroGleam" class="lightup_high" style="text-decoration: none; color: inherit; border: transparent; padding: 0em; border-radius: 0px; display: block;">
     <div class="project-icon" style="text-align: center; margin-top: 2em; margin-bottom: 0em;">
       <img src="/assets/projects/wmh1.webp" alt="Project 2 Icon" style="width: 8em; height: 8em;">
     </div>
@@ -40,7 +41,7 @@ permalink: /projects/
   </a>
 
     <!-- Card for Project 5 -->
-  <a href="#Gait" class="project-card" style="text-decoration: none; color: inherit; border: transparent; padding: 0em; border-radius: 0px; display: block;">
+  <a href="#Gait" class="lightup" style="text-decoration: none; color: inherit; border: transparent; padding: 0em; border-radius: 0px; display: block;">
     <div class="project-icon" style="text-align: center; margin-top: 2em; margin-bottom: 0em;">
       <img src="/assets/projects/gait5.webp" alt="Project 2 Icon" style="width: 8em; height: 8em;">
     </div>
@@ -48,7 +49,7 @@ permalink: /projects/
   </a>
 
       <!-- Card for Project 6 -->
-  <a href="#Deepimmuno" class="project-card" style="text-decoration: none; color: inherit; border: transparent; padding: 0em; border-radius: 0px; display: block;">
+  <a href="#Deepimmuno" class="lightup_high" style="text-decoration: none; color: inherit; border: transparent; padding: 0em; border-radius: 0px; display: block;">
     <div class="project-icon" style="text-align: center; margin-top: 2em; margin-bottom: 0em;">
       <img src="/assets/projects/deepimmuno_icon.webp" alt="Project 2 Icon" style="width: 8em; height: 8em;">
     </div>
@@ -56,7 +57,7 @@ permalink: /projects/
   </a>
 
       <!-- Card for Project 6 -->
-  <a href="#Bearing" class="project-card" style="text-decoration: none; color: inherit; border: transparent; padding: 0em; border-radius: 0px; display: block;">
+  <a href="#Bearing" class="lightup" style="text-decoration: none; color: inherit; border: transparent; padding: 0em; border-radius: 0px; display: block;">
     <div class="project-icon" style="text-align: center; margin-top: 2em; margin-bottom: 0em;">
       <img src="/assets/projects/bearing3.webp" alt="Project 2 Icon" style="width: 8em; height: 8em;">
     </div>

@@ -138,12 +138,10 @@ ul li p.talk-details {
 }
 
 .page__content h1.general-title {
-  padding-bottom: 0 !important;
-  border-bottom: 2px solid $border-color !important;  /* Underline that spans only the text */
+  padding-bottom: 0 !important;  
   display: inline-block;  /* Shrink-wrap the header to its text width */
-  margin-top: 0em;
-  margin-bottom: 0em;
-  
+  border-bottom: 2px solid $border-color !important;  /* Underline that spans only the text */
+    
 }
 
 .page__content h2.general-title {
@@ -308,6 +306,26 @@ ul li p.talk-details {
   .no-hover-effect:hover img {
     box-shadow: none !important;
   }
+
+  .lightup:hover img {
+    box-shadow: $box-shadow; //#eb0404 !important;//;
+    filter: brightness(1.2);
+    transition: filter 0.1s ease;
+  }
+  
+  .lightup_med:hover img {
+    box-shadow: $box-shadow; //#eb0404 !important;//;
+    filter: brightness(1.4);
+    transition: filter 0.1s ease;
+  }
+  
+
+  .lightup_high:hover img {
+    box-shadow: $box-shadow; //#eb0404 !important;//;
+    filter: brightness(1.8);
+    transition: filter 0.1s ease;
+  }
+  
  
 
   a:not(.btn) {

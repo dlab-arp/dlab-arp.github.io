@@ -120,7 +120,7 @@ permalink: /resume/
       <h2 class="color-title">Skills</h2>
 </div>
 <ul style="list-style: none; text-align: left; font-size: 0.95em; margin-top: 0em; padding-left: 1em;">
-<li style="margin-top: 0em; margin-bottom: 0em"><strong>Programming:</strong> Python | MATLAB | Julia | C | C++ | Cuda C</li>
+<li style="margin-top: 0em; margin-bottom: 0em"><strong>Programming:</strong> Python | MATLAB | Julia | C | C++ | Cuda C | SQL</li>
 <li style="margin-top: 0em; margin-bottom: 0em"><strong>Libraries:</strong> Numpy | Scipy | Pandas | Sklearn | Docker | LangChain</li>
 <li style="margin-top: 0em; margin-bottom: 0em"><strong>Deep Learning:</strong> Tensorflow | Keras | PyTorch</li>
 <li style="margin-top: 0em; margin-bottom: 0em"><strong>Modeling:</strong> CNN | Transformer | RNN | LSTM | VAE | GAN | Diffusion | Interpretability | LLM | RAG | Unsupervised |  Self-Supervised | Semi-Supervised | Mamba | KAN</li>

@@ -12,7 +12,7 @@ permalink: /skills/
   <tbody>
     <tr>
       <td style="padding: 0.5em; vertical-align: top; "><strong>Programming</strong></td>
-      <td style="padding: 0.5em;">Python, MATLAB, Julia, C, C++, Cuda C</td>
+      <td style="padding: 0.5em;">Python, MATLAB, Julia, C, C++, Cuda C, SQL</td>
     </tr>
     <tr>
       <td style="padding: 0.5em; vertical-align: top;"><strong>Deep Learning</strong></td>
